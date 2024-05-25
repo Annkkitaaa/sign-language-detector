@@ -62,13 +62,7 @@ python inference.py
 
 The real-time recognition script will open a window displaying the video feed from your webcam. The system will detect hand gestures and display the recognized text on the screen.
 
-## Contributing
 
-Contributions to this project are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
