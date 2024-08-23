@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
+}
+
+.container {
+    text-align: center;
+}
+
+#videoContainer {
+    position: relative;
+    margin-bottom: 20px;
+}
+
+#video, #canvas {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+#result {
+    margin-bottom: 20px;
+    font-size: 18px;
+}
+
+#startButton {
+    font-size: 16px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
